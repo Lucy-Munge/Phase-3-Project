@@ -16,9 +16,9 @@ The questions this project seeks to answer include:
    
 ## Business Objectives
 
-- Gain insight on the factors that are contributing to customer churning
-- Gain insights on the attributes the customers who churn have
-- Increase customer retention
+ - Gain insight on the factors that are contributing to customer churning
+ - Gain insights on the attributes the customers who churn have
+ - Increase customer retention
 
 ## Data Mining Objectives
 Build predictive model with 85% accuracy
